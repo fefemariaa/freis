@@ -1,0 +1,29 @@
+.pagina-inicio {
+
+   
+    section {
+        display: flex;
+        flex-direction: column;
+        margin: 4rem 3rem 0rem 6rem;
+        max-width: 1270px;
+       
+        padding-bottom: 4rem;
+        gap: 2rem;
+
+        h1 {
+            font: 700 26px 'Roboto';
+        }
+
+        .exercicios {
+           display: flex;
+           flex-wrap: wrap;
+         
+
+           max-width: 1270px;
+           gap: 40px;
+
+        }
+
+
+    }
+}
