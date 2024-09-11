@@ -1,6 +1,9 @@
 import './index.scss'
-import Cabecalho from '/'
-import Cartao from '../../components/cards/'
+import Cabecalho from '../../components/cabecalho'
+import Nomee from '../../components/nome'
+import Texto from '../../components/texto'
+import Cartao from '../../components/cartao'
+
 
 export default function App() {
 

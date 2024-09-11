@@ -11,6 +11,7 @@ import Ex8 from "./pages/ex8";
 import Ex9 from "./pages/ex9";
 import Ex10 from "./pages/ex10";
 import Ex11 from "./pages/ex11";
+import { Component } from "react";
 
 
 export default function Nave() {

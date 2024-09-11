@@ -1,9 +1,9 @@
 import './index.scss'
 
 import { useState } from 'react'
-import Nome from '../../../components/nome'
-import Cabecalho from '../../../components/cabecalho'
-import Texto from '../../../components/texto'
+import Nome from '../../components/nome'
+import Cabecalho from '../../components/cabecalho'
+import Texto from '../../components/texto'
 
 
 export default function Ex10() {

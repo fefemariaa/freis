@@ -1,9 +1,11 @@
 import './index.scss'
 
 import { useState } from 'react'
-import Nome from '../../../components/nome'
-import Cabecalho from '../../../components/cabecalho'
+import Nome from '../../components/nome'
+import Cabecalho from '../../components/cabecalho'
 import Texto from '../../components/texto'
+
+
 export default function Ex11() {
 
     const [numero, setNumero] = useState(0)
