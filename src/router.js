@@ -13,7 +13,7 @@ import Ex10 from "./pages/ex10";
 import Ex11 from "./pages/ex11";
 
 
-export default function Navegacao() {
+export default function Nave() {
 
     return (
         <BrowserRouter>
@@ -32,6 +32,7 @@ export default function Navegacao() {
             <Route path="/ex10" element = {<Ex10/>}/>
             <Route path="/ex11" element = {<Ex11/>}/>
 
+            
            </Routes>
         </BrowserRouter>
     )
