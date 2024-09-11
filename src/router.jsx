@@ -12,6 +12,7 @@ import Ex9 from "./pages/ex9";
 import Ex10 from "./pages/ex10";
 import Ex11 from "./pages/ex11";
 import { Component } from "react";
+import Sobre from "./pages/sobre";
 
 
 export default function Nave() {
@@ -32,6 +33,8 @@ export default function Nave() {
             <Route path="/ex9" element = {<Ex9/>}/>
             <Route path="/ex10" element = {<Ex10/>}/>
             <Route path="/ex11" element = {<Ex11/>}/>
+            <Route path="/sobre" element = {<Sobre/>}/>
+
 
             
            </Routes>

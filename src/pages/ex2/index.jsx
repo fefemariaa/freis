@@ -33,7 +33,7 @@ export default function Ex2() {
             <div className='exercicio'>
                 <div className='titulo'>
                     <div className='texto'>
-                        <Link to='/'><img src='/assets/images/voltar.png' alt='voltar' /></Link>
+                        <Link to='/'><img className='voltar' src='/assets/images/voltar.png' alt='voltar' /></Link>
                         <h2>Exercício 02 - Converter Kg/Gramas</h2>
                     </div>
                     <div className='faixa'/>

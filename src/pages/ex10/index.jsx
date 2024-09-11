@@ -105,7 +105,7 @@ export default function Ex10() {
            <Nome
             
             link = '/'
-            img = '/assets/images/voltar.png'
+            img  = '/assets/images/voltar.png'
             exercicio = 'Exercício 10 - Calculo de IMC com histórico'
             color = '#B75333'
             />

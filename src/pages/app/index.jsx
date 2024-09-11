@@ -116,14 +116,7 @@ export default function App() {
                     
                     />
 
-                    <Cartao
-                    
-                    link = '/ex12'
-                    color = '#FFCE37'
-                    nome = 'Comparador de pessoas'
-                    ex = 'Exercício 12'
-                    
-                    />
+                   
                 
                 </div>
 

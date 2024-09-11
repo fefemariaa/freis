@@ -39,7 +39,7 @@ export default function Ex6() {
             <div className='exercicio'>
                 <div className='titulo'>
                     <div className='texto'>
-                        <Link to='/'><img src='/assets/images/voltar.png' alt='voltar' /></Link>
+                        <Link to='/'><img className='voltar' src='/assets/images/voltar.png' alt='voltar' /></Link>
                         <h2>Exercício 06 - Salário</h2>
                     </div>
                     <div className='faixa'/>
